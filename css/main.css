@@ -1,0 +1,19 @@
+body{
+	background-image:url('../img/bg.jpg');
+	text-align: center;
+	width:100%;
+	height:auto;
+}
+
+.color{
+	color: white;
+    background-color: gold;
+    padding: 5px 20px;
+    border-radius: 10px;
+    border-color: #FFFEFE;
+}
+
+h1{
+	font-family: 'Monoton', cursive !important;
+	font-size:53px !important;
+}
